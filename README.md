@@ -1,6 +1,6 @@
 # ExcelFormer
 
-A pioneering neural network, even without the time-consuming hyper-parameter tuning, can surpass extremely-tuned XGboost and Catboost on most of tabular datasets.
+A pioneering neural network, even without the time-consuming hyper-parameter tuning, can surpass extremely-tuned XGboost and Catboost on most of tabular datasets, in the supervised tabular data related prediction tasks.
 
 This repository will include the original implementation and experiment codes of *ExcelFormer*([link](https://arxiv.org/abs/2301.02819))
 
