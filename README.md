@@ -1,6 +1,6 @@
 # ExcelFormer
 
-This repository will include the original implementation and experiment codes of [**ExcelFormer**](https://arxiv.org/abs/2301.02819). Excelformer is a pioneering neural network can surpass extensively-tuned XGboost, Catboost, and most tuned previous deep learning approaches on most of tabular data prediction tasks, in the supervised learning manner. It can be an optimal choice on tabualr dataset prediction competitions (e.g., Kaggle).
+This repository will include the original implementation and experiment codes of [**ExcelFormer**](https://arxiv.org/abs/2301.02819). Excelformer is a pioneering neural network can surpass extensively-tuned XGboost, Catboost, and most tuned previous deep learning approaches on most of tabular data prediction tasks, in the supervised learning manner. It can be a go-to choice on tabualr dataset prediction competitions (e.g., Kaggle).
 
 Even without hyper-parameter tuning, ExcelFormer performs comparable to tuned models. After hyper-parameter tuning, ExcelFormer typically outperforms them.
 
