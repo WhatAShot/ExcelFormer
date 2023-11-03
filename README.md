@@ -1,6 +1,6 @@
-# TabFormer
+# ExcelFormer
 
-This repository will include the original implementation and experiment codes of [**TabFormer**](https://arxiv.org/abs/2301.02819). TabFormer is a pioneering neural network can surpass extensively-tuned XGboost, Catboost, and most tuned previous deep learning approaches on most of tabular data prediction tasks, in the supervised learning manner. It can be a go-to choice on tabualr dataset prediction competitions (e.g., Kaggle).
+This repository will include the original implementation and experiment codes of [**ExcelFormer**](https://arxiv.org/abs/2301.02819). TabFormer is a pioneering neural network can surpass extensively-tuned XGboost, Catboost, and most tuned previous deep learning approaches on most of tabular data prediction tasks, in the supervised learning manner. It can be a go-to choice on tabualr dataset prediction competitions (e.g., Kaggle).
 
 Even without hyper-parameter tuning, TabFormer performs comparable to tuned models. After hyper-parameter tuning, TabFormer typically outperforms them.
 
