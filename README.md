@@ -11,6 +11,10 @@ The implementation of TabFormer in the original paper is `bin/excel_former.py`.
 
 You can test your models by adding them to `bin` directory and `bin/__init__.py`. Keep the same API we used in other models, and write your own evaluation script (`run_default_config_excel.py` as a reference).
 
+## Datasets:
+
+The datasets (96 small tabular datasets + 21 large tabular datasets) are available at: https://huggingface.co/datasets/jyansir/excelformer.
+
 ## Future work
 
 We will organize our previous works on **tabular prediction** into [Tabular AI Research](https://github.com/pytabular-ai) group for industrial use (e.g. further architecture optimization or acceleration / compilation). If you want to include our model as a baseline in your paper, please use the version in this repository rather than the industrial one in the group repository.
